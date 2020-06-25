@@ -1,5 +1,5 @@
 ## Certificates of Chinmay
-I am reachable via [LinkedIn](https://www.linkedin.com/in/chinmay-anand-a952622/))
+I am reachable via [LinkedIn](https://www.linkedin.com/in/chinmay-anand-a952622/)
 
 <ul>
 <li><a href="Azure_Machine_Learning_with_ML_Studio(LinkedIn)_certificate.pdf" target="_blank">Azure Machine Learning Development with ML Studio from LinkedIn</a>
