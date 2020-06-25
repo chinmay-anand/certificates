@@ -1,7 +1,6 @@
-# certificates
+# Certificates
 Certificates of Chinmay
 
-<h3>Certifications</h3>
 <ul>
 <li><a href="Azure_Machine_Learning_with_ML_Studio(LinkedIn)_certificate.pdf" target="_blank">Azure Machine Learning Development with ML Studio from LinkedIn</a>
 </li><li><a href="Kafka_Essential_Training(LinkedIn)_certificate.pdf" target="_blank">Kafka Essentials from LinkedIn</a>
