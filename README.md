@@ -4,8 +4,8 @@ Certificates of Chinmay
 <h3>Certifications</h3>
 <ul>
 <li><a href="Azure_Machine_Learning_with_ML_Studio(LinkedIn)_certificate.pdf" target="_blank">Azure Machine Learning Development with ML Studio from LinkedIn</a>
-<li><a href="Kafka_Essential_Training(LinkedIn)_certificate.pdf" target="_blank">Kafka Essentials from LinkedIn</a>
-<li><a href="PySpark_BigData_UC-1ba38b91-64e4-4c71-8796-160de13e6db5.pdf" target="_blank">Spark and Python for BigData with PySpark</a>
+</li><li><a href="Kafka_Essential_Training(LinkedIn)_certificate.pdf" target="_blank">Kafka Essentials from LinkedIn</a>
+</li><li><a href="PySpark_BigData_UC-1ba38b91-64e4-4c71-8796-160de13e6db5.pdf" target="_blank">Spark and Python for BigData with PySpark</a>
 </li><li><a href="Spring_Batch(LinkedIn)_CertificateOfCompletion.pdf" target="_blank">Spring Batch certificaitn from LinkedIn</a>
 </li><li><a href="Cloud_Native_Development_With_NodeJs_Docker_Kubernetes_(LinkedIn)CertificateOfCompletion.pdf" target="_blank">Cloud Native Certificattion from LinkedIn</a>
 </li>
