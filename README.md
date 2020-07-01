@@ -1,6 +1,6 @@
 ## Certificates of Chinmay
 I am reachable via [LinkedIn](https://www.linkedin.com/in/chinmay-anand-a952622/)
-
+* [Azure Machine Learning Development with ML Studio from LinkedIn (Cert Id: AcPlSFlvaP14JgofZZiGnlBL59DH)](Azure_Machine_Learning_with_ML_Studio(LinkedIn)_certificate.pdf) 
 <ul>
 <li><a href="Azure_Machine_Learning_with_ML_Studio(LinkedIn)_certificate.pdf" target="_blank">Azure Machine Learning Development with ML Studio from LinkedIn (Cert Id: AcPlSFlvaP14JgofZZiGnlBL59DH)</a>
 </li><li><a href="Kafka_Essential_Training(LinkedIn)_certificate.pdf" target="_blank">Kafka Essentials from LinkedIn (AXJ4XRL2R8ktisV25DWm98a1k6k3)</a>
