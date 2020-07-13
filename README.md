@@ -8,7 +8,8 @@ I am reachable via [LinkedIn](https://www.linkedin.com/in/chinmay-anand-a952622/
 </li><li><a href="Cloud_Native_Development_With_NodeJs_Docker_Kubernetes_(LinkedIn)CertificateOfCompletion.pdf" target="_blank">Cloud Native Certificattion from LinkedIn</a>
 </li>
 <br/>
-<li><a href="Product_Management_Building_a_Product_Roadmap(PMI)_CertificateOfCompletion.pdf" target="_blank">Product Roadmap Certificaiton from PMI (1 PDU)</a>
+<li><a href="Strategic Thinking_(PMI)_ProfClark.pdf" target="_blank">Strategic Thinking from PMI (0.50 PDU)</a>
+</li><li><a href="Product_Management_Building_a_Product_Roadmap(PMI)_CertificateOfCompletion.pdf" target="_blank">Product Roadmap Certificaiton from PMI (1 PDU)</a>
 </li><li><a href="Strategic_Planning_Foundations(PMI)_CertificateOfCompletion.pdf" target="_blank">Strategic Planning Foundations from PMI (1.25 PDU)</a>
 </li>
 <br/>
