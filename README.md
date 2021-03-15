@@ -18,6 +18,6 @@ I am reachable via [LinkedIn](https://www.linkedin.com/in/chinmay-anand-a952622/
 </li><li><a href="Togaf_Training_From_Simplilearn_certificate_1670585_1582613095.pdf" target="_blank">TOGAF training from SimpliLearn</a>
 </li>
 <br/>
-     <li><a href="AWS_EC2_ Certificate_of_Completion_from_aws.pdf" target="_blank">AWS Elastic Compute Cloud (EC2) Certification</a>
+     <li><a href="AWS_EC2_Certificate_of_Completion_from_aws.pdf" target="_blank">AWS Elastic Compute Cloud (EC2) Certification</a>
 </li>
 </ul>
