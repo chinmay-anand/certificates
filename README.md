@@ -1,4 +1,5 @@
 ## My Professional Certificates (Reach me at [linkedIn](I am reachable via [LinkedIn](https://www.linkedin.com/in/chinmay-anand-a952622/)
+
 ### PMI - Management Certificates from LinkedIn
 
 - [“Strategic Planning Foundations” by Mike Figliuolo! + NASBA, PMI](https://www.linkedin.com/learning/certificates/e192e6a21981f1570ea18a42f6d2a3b834764fd4b643ba830371c98cbcfbbc75)
