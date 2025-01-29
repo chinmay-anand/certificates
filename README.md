@@ -1,4 +1,5 @@
-## My Professional Certificates (Reach me at [linkedIn](I am reachable via [LinkedIn](https://www.linkedin.com/in/chinmay-anand-a952622/)
+## My Professional Certificates
+* I am reachable via [LinkedIn](https://www.linkedin.com/in/chinmay-anand-a952622/)
 
 ### PMI - Management Certificates from LinkedIn
 
